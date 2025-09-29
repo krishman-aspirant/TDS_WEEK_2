@@ -132,3 +132,11 @@ flowchart LR
     click D href "https://www.github.com" "This is a tooltip for a link"
 
 ```
+
+### GA_wala
+```mermaid
+flowchart LR
+    id1[edge-ow8vry]---
+    id2[api-47h]---
+    id3[worker-qnyt]
+```
