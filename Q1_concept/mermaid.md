@@ -66,3 +66,31 @@ flowchart LR
     id1(This is the text in the box)
 
 ```
+
+
+
+
+### E7
+```mermaid
+flowchart TD
+
+    id1(((This is the text in the circle)))
+
+
+```
+
+> There are many more diagram to learn in mermaid.
+
+### E8
+```mermaid
+flowchart LR
+    A-- This is the text! -----B
+
+```
+
+### E9
+```mermaid
+flowchart LR
+   a --> b & c--> d
+
+```
